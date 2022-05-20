@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Ledian63S
-- 👀 I’m interested in Business Central 365 Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Business Central 365 Developer @IBS
 
-[![Ledian63S GitHub stats](https://github-readme-stats.vercel.app/api?username=Ledian63S)](https://github.com/anuraghazra/github-readme-stats)
+![Ledian63S GitHub stats](https://github-readme-stats.vercel.app/api?username=Ledian63S&theme=chartreuse-dark&show_icons=true)
 
 <!---
 Ledian63S/Ledian63S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
