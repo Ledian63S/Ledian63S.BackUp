@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Ledian63S
-- 👀 Business Central 365 Developer @IBS
+### Hi, I'm Ledian, a Microsoft Dynamics 365 Business Central Developer 
 
-![Ledian63S GitHub stats](https://github-readme-stats.vercel.app/api?username=Ledian63S&theme=chartreuse-dark&show_icons=true)
 
-<!---
-Ledian63S/Ledian63S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lekaledian/) 
+[![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Ledian63S) 
+
+### My Github Contributions
+| **SUMARY**                                                                                                                                              | **LANGUAGES**                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Ledian github stats](https://github-readme-stats.vercel.app/api?username=Ledian63S&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ledian63S&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
