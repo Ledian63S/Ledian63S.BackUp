@@ -2,7 +2,7 @@
 
 
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lekaledian/)
-[![YouTube](https://img.shields.io/badge/Youtube-black?style=for-the-badge&logo=youtube)](https://www.youtube.com/user/postsaurav)
+[![YouTube](https://img.shields.io/badge/Youtube-black?style=for-the-badge&logo=youtube)](https://www.youtube.com/user/Ledian63S)
 [![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Ledian63S)
 
 ### My Github Contributions
