@@ -15,7 +15,7 @@
 ## I'm a Business Central and Navision Developer!
 
 - 📍 I’m From Albania (Tirana)
-- 💻 3+ Years Experience in Development
+<!-- - 💻 3+ Years Experience in Development -->
 <!-- - 📚 I lead my blog about Navision and Business Central -->
 
 ### 🤝 Connect with me:
@@ -59,4 +59,4 @@
 
 <!-- [blog]: https://vld-nav.com/ -->
 [linkedin]: https://www.linkedin.com/in/lekaledian/
-[facebook]: https://www.facebook.com/lekaledian/
+<!-- [facebook]: https://www.facebook.com/lekaledian/ -->
