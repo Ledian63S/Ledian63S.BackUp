@@ -21,7 +21,7 @@
 ### 🤝 Connect with me:
 
 [<img alt="Ledian Leka | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img alt="Ledian Leka | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+<!--[<img alt="Ledian Leka | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook] -->
 ---
 
 ### 💻 Tech Stack:
